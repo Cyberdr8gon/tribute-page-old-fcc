@@ -1,0 +1,33 @@
+.browserupgrade {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+#bodyTarget {
+  background-color: #9E9E9E;
+  font-family: ventura
+}
+
+.mainDocT {
+  margin: 40px 60px;
+  padding: 55px;
+  background-color: white;
+  box-shadow: 5px 5px 50px black;
+}
+
+#headingT {
+  margin: 25px
+}
+
+
+#mainImageT {
+  padding: 10px;
+}
+
+#main-content {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 140%;
+}
